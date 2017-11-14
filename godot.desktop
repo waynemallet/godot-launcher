@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Godot
+Icon=/godot/icon.svg
+Exec=/godot/link/launch.sh
